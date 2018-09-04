@@ -1,3 +1,4 @@
 # demo_git
 Une demo de Git qui se passe bien!
-i
+
+Et modifié depuis GitHub.
